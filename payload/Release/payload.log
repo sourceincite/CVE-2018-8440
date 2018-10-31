@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  payload.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  payload.vcxproj -> C:\Users\researcher\source\repos\lpe\Release\payload.dll

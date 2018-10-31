@@ -1,0 +1,40 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Processing .\rpc.idl
+  rpc.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\unknwn.idl
+  unknwn.idl
+  wtypes.idl
+  wtypesbase.idl
+  basetsd.h
+  guiddef.h
+  ocidl.idl
+  oleidl.idl
+  servprov.idl
+  urlmon.idl
+  msxml.idl
+  oaidl.acf
+  ocidl.acf
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\shared\wtypes.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\shared\wtypesbase.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\shared\basetsd.h
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\shared\guiddef.h
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\ocidl.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\oleidl.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\servprov.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\urlmon.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\msxml.idl
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\oaidl.acf
+  Processing C:\Program Files\Windows Kits\10\Include\10.0.17134.0\um\ocidl.acf
+  pch.cpp
+  rpc_c.c
+  poc.cpp
+c:\users\researcher\source\repos\lpe\poc\poc.cpp(119): warning C4995: 'IXpsPrintJob': name was marked as #pragma deprecated
+c:\users\researcher\source\repos\lpe\poc\poc.cpp(121): warning C4995: 'StartXpsPrintJob': name was marked as #pragma deprecated
+  Generating code
+  Finished generating code
+  All 168 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  poc.vcxproj -> C:\Users\researcher\source\repos\lpe\Release\poc.exe

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  CommonUtils.cpp
+  DirectoryObject.cpp
+  FileOpLock.cpp
+  FileSymlink.cpp
+  Hardlink.cpp
+  NativeSymlink.cpp
+  RegistrySymlink.cpp
+  ReparsePoint.cpp
+  ScopedHandle.cpp
+  CommonUtils.vcxproj -> C:\Users\researcher\source\repos\lpe\Release\CommonUtils.lib
